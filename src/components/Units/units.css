@@ -1,0 +1,18 @@
+.row{
+    width: 100%;
+    height: 33.3%;
+    display: flex;
+}
+
+.block{
+    height: 100%;
+    border: solid black 0.5px;
+    width: 33.3%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* font-size: 2rem; */
+    font-size: 10rem;
+    font-weight: 100;
+    cursor: pointer;
+}
